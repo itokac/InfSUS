@@ -1,0 +1,80 @@
+body { background: #f7f7f9; }
+.table td, .table th { white-space: nowrap; }
+
+body {
+  background-color: #f0f8f0;
+}
+main.container {
+  padding-bottom: 2rem;
+}
+
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.logo {
+  height: 40px;
+}
+
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+table tr:hover {
+  background-color: #e6ffe6;
+}
+table th {
+  background-color: #198754; 
+  color: white;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+  text-align: center;
+  padding: 0.75rem;
+}
+
+.table {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+input.form-control {
+  border-radius: 0.5rem;
+}
+
+
+
+button.btn-warning {
+  background-color: #ffc107;
+  color: black;
+}
+button.btn-danger {
+  background-color: #dc3545;
+}
+button.btn-outline-primary {
+  border-color: #198754;
+  color: #198754;
+}
+button.btn-outline-primary:hover {
+  background-color: #198754;
+  color: white;
+}
+
+.card + .card {
+  margin-top: 1rem;
+}
+button.btn-success.rounded-0 {
+  width: 100%;
+  font-weight: bold;
+  border-radius: 0;
+}
