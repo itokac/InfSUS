@@ -12,7 +12,7 @@ Pregledaj hranjenja
 Vizualizacija (za sve životinje općenito)
 
 ## USE CASE:
-    ![usecase](frontend/dodaci/usecase.png)
+![usecase](https://raw.githubusercontent.com/itokac/InfSUS/main/frontend/dodaci/usecase.png)
 
 Aplikacija je razvijena kao dio projekta iz kolegija Informacijski Sustavi, s ciljem usvajanja znanja iz područja razvoja web servisa, 
 povezivanja frontenda i backenda te rada s bazama podataka i Dockerom.
